@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Paul Khuna Admin</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_locations">Add Locations</string>
+    <string name="locations">Locations</string>
+
+
+    <string-array name="nav_item_activity_titles">
+        <item>Locations List</item>
+        <item>Location Form</item>
+    </string-array>
+
+    <string name="gps_network_not_enabled">GPS Network not enabled</string>
+    <string name="open_location_settings">Open Location Settings</string>
+    <string name="Cancel">Cancel</string>
+</resources>
